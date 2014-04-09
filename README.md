@@ -1,4 +1,0 @@
-testingApp
-==========
-
-test
